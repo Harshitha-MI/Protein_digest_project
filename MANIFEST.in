@@ -1,0 +1,4 @@
+recursive-include chopit/public *
+include chopit/public/favicon.ico
+recursive-include chopit/i18n *
+recursive-include chopit/templates *
